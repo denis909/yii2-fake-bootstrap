@@ -1,5 +1,5 @@
 {
-    "name": "denis909/yii2-fake-bootstrap3",
+    "name": "denis909/yii2-fake-bootstrap",
     "license": "MIT",
     "require": {
         "yiisoft/yii2": ">=2.0.4"
