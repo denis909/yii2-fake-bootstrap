@@ -3,11 +3,5 @@
     "license": "MIT",
     "require": {
         "yiisoft/yii2": ">=2.0.4"
-    },
-	"autoload": {
-		"classmap": [
-			"Bootstrap3Asset.php",
-			"Bootstrap3PluginAsset.php"
-		]
-	}
+    }
 }
